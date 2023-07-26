@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="transfer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/_git.zip!/" />
+      <root url="jar://$PROJECT_DIR$/wss-osgi-feature-java-upgrade.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
